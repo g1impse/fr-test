@@ -1,0 +1,34 @@
+/* Breakpoints: From xs to sm, from sm to md, from md to lg, after that simple desktop */
+$breakpoints: (
+    xs: 0,
+    sm: 768px,
+    md: 992px,
+    lg: 1280px
+);
+
+/* Colors */
+
+$black: #2a2a30;
+$border: #e3e3e3;
+$gray: #f7f7f7;
+$gray-dark: #aeaeae;
+$green: #93bc02;
+$green-dark: #409452;
+$red: #e50037;
+
+/* Defaults */
+$font-family: 'Museo', sans-serif;
+$font-size: 16px;
+$body-color: #000;
+$body-bg: #fff;
+
+/* Grid */
+$header-h: 84px;
+$footer-h: 64px;
+$sidebar-w: 256px;
+
+/* Spacing */
+$mobile-padding: 16px;
+
+/* transitions */
+$default-transition: .3s ease;
