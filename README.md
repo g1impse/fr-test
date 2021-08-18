@@ -1,1 +1,4 @@
-# fr-test
+Разворот:
+
+npm i
+npm run dev
