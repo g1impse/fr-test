@@ -21,7 +21,7 @@
 
 <style lang="scss" module>
     .TheFooter {
-        background-color: rgba(grey, 0.4);
+        background-color: rgba(grey, .4);
     }
 
     .wrap {
